@@ -8,6 +8,10 @@ MONGODB_URL_KEY = "MONGODB_URL"
 PIPLELINE_NAME:str = "usvisa"
 ARTIFACT_DIR:str = "artifact"
 
+TRAIN_FILE_NAME = 'train.csv'
+TEST_FILE_NAME = 'test.csv'
+
+FILE_NAME = 'EasyVisa.csv'
 MODEL_FILE_NAME = "model_pkl"
 """
 Data Ingestion related constant start with DATA_INGESTION VAR NAME
